@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111a2b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f2a3a" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity="0.6"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="98" fill="#7d8590" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="4">INGENIERÍA DE SISTEMAS · UPB BUCARAMANGA</text>
+    <text x="72" y="168" fill="#f0f6fc" font-size="56" font-weight="700">Néstor Santiago Pinto Roa</text>
+    <text x="72" y="216" fill="#38bdf8" font-size="26" font-weight="600">Desarrollador Full-Stack</text>
+    <text x="72" y="252" fill="#8b949e" font-size="20">React · TypeScript · Node.js · Java · Spring Boot · AWS</text>
+  </g>
+
+  <g transform="translate(1040 150)">
+    <circle r="110" fill="url(#glow)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M0 -70 C6 -18 18 -6 70 0 C18 6 6 18 0 70 C-6 18 -18 6 -70 0 C-18 -6 -6 -18 0 -70 Z" fill="#7dd3fc">
+      <animateTransform attributeName="transform" type="scale" values="1;0.88;1" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M70 -60 C72 -50 76 -46 86 -44 C76 -42 72 -38 70 -28 C68 -38 64 -42 54 -44 C64 -46 68 -50 70 -60 Z" fill="#e0f2fe" opacity="0.9"/>
+    <path d="M-62 46 C-61 52 -58 55 -52 56 C-58 57 -61 60 -62 66 C-63 60 -66 57 -72 56 C-66 55 -63 52 -62 46 Z" fill="#e0f2fe" opacity="0.7"/>
+  </g>
+</svg>
