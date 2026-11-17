@@ -8,7 +8,7 @@
 
 Estudiante de Ingeniería de Sistemas e Informática en la UPB (6.º semestre). Construyo aplicaciones web de punta a punta, con pruebas automatizadas y CI/CD. Me interesan la nube y la inteligencia artificial.
 
-[Portafolio](https://zouathletics.me) · [Email](mailto:pintosanti55@gmail.com)
+[Portafolio](https://zouathletics.me) · [LinkedIn](https://www.linkedin.com/in/santiago-pinto-0a796a44b/) · [Email](mailto:pintosanti55@gmail.com)
 
 ---
 
