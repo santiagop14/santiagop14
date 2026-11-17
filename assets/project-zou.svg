@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="404" viewBox="0 0 1200 404" role="img" aria-label="ZOU Athletics: Diseñé, construí y desplegué solo una plataforma de comercio electrónico para una tienda de ropa deportiva: tienda en línea, panel de administración, API REST con arquitectura limpia e inventario con movimientos auditables. Tiene más de 287 pruebas automatizadas, CI con GitHub Actions y está desplegada en Vercel, Render y Neon bajo un dominio propio.">
+<defs>
+<linearGradient id="bgpc0" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#050914"/><stop offset="54%" stop-color="#081421"/><stop offset="100%" stop-color="#102238"/></linearGradient>
+<linearGradient id="edgepc0" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="48%" stop-color="#2dd4bf"/><stop offset="78%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="scanpc0" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity="0.10"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<pattern id="gridpc0" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#27415e" stroke-width="1" opacity="0.34"/></pattern>
+<clipPath id="clippc0"><rect width="1200" height="404" rx="20"/></clipPath>
+<filter id="glowpc0" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="404" rx="20" fill="url(#bgpc0)"/>
+<rect x="1" y="1" width="1198" height="402" rx="19" fill="url(#gridpc0)" opacity="0.2"/>
+<rect x="1" y="1" width="1198" height="402" rx="19" fill="none" stroke="#345778" stroke-width="2"/>
+<rect x="28" y="24" width="1144" height="356" rx="17" fill="#060d17" fill-opacity="0.64" stroke="#2f648b" stroke-width="1.4"/>
+<g clip-path="url(#clippc0)"><rect x="0" y="-72" width="1200" height="72" fill="url(#scanpc0)"><animateTransform attributeName="transform" type="translate" values="0 0;0 476" dur="11s" repeatCount="indefinite"/></rect></g>
+<rect x="28" y="377" width="1144" height="3" rx="1.5" fill="url(#edgepc0)" opacity="0.5"/>
+
+<circle cx="52" cy="56" r="4.5" fill="#22d3ee" filter="url(#glowpc0)"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="68" y="62" fill="#22d3ee" font-size="16" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">[01] proyecto.zou</text>
+<text x="52" y="88" fill="#8fa3ba" font-size="13" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">santiago@portafolio:~$ inspect proyecto.zou</text>
+<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">PROYECTO // LISTO</text>
+<line x1="52" y1="105" x2="1148" y2="105" stroke="#315474"/>
+<line x1="52" y1="105" x2="210" y2="105" stroke="url(#edgepc0)" stroke-width="2"/>
+
+<text x="62" y="140" fill="#5f7590" font-size="11" letter-spacing="1.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">PROYECTO 01 // VERIFICADO</text>
+<text x="60" y="182" fill="#f8fbff" font-size="32" font-weight="900" font-family="'Segoe UI', Helvetica, Arial, sans-serif">ZOU Athletics</text>
+<rect x="992" y="160" width="132" height="26" rx="13" fill="#0b2233" stroke="#2dd4bf" stroke-opacity="0.75"/><text x="1058" y="177" fill="#2dd4bf" font-size="11" font-weight="800" text-anchor="middle" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">EN PRODUCCIÓN</text><rect x="906" y="160" width="76" height="26" rx="13" fill="#0b2233" stroke="#2dd4bf" stroke-opacity="0.75"/><text x="944" y="177" fill="#2dd4bf" font-size="11" font-weight="800" text-anchor="middle" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">PROPIO</text>
+<text x="62" y="214" fill="#22d3ee" font-size="12.5" font-weight="700" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">STACK: React · TypeScript · Node.js · Express · PostgreSQL</text>
+<text x="62" y="240" fill="#4ade80" font-size="11" font-weight="800" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">DESCRIPCIÓN.LOG</text>
+<text x="62" y="264" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Diseñé, construí y desplegué solo una plataforma de comercio electrónico para una tienda de ropa deportiva:</text>
+<text x="62" y="285" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">tienda en línea, panel de administración, API REST con arquitectura limpia e inventario con movimientos</text>
+<text x="62" y="306" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">auditables. Tiene más de 287 pruebas automatizadas, CI con GitHub Actions y está desplegada en Vercel, Render y</text>
+<text x="62" y="327" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Neon bajo un dominio propio.</text>
+<text x="1136" y="364" fill="#5f7590" font-size="10.5" text-anchor="end" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">ENLACES // ABAJO</text>
+</svg>

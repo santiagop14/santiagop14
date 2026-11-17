@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Enfoque actual: CONSTRUIR: Aplicaciones web full-stack de punta a punta, del diseño al despliegue. NUBE: Infraestructura y despliegue en AWS (AWS Academy Cloud Foundations). CALIDAD: Pruebas automatizadas, revisión de código y pipelines de CI/CD. IA: Aprender y construir soluciones con inteligencia artificial. CRECER: Trabajo en equipo, nuevos retos y aprendizaje continuo">
+<defs>
+<linearGradient id="bgfc" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#050914"/><stop offset="54%" stop-color="#081421"/><stop offset="100%" stop-color="#102238"/></linearGradient>
+<linearGradient id="edgefc" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="48%" stop-color="#2dd4bf"/><stop offset="78%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="scanfc" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity="0.10"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<pattern id="gridfc" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#27415e" stroke-width="1" opacity="0.34"/></pattern>
+<clipPath id="clipfc"><rect width="1200" height="430" rx="20"/></clipPath>
+<filter id="glowfc" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="430" rx="20" fill="url(#bgfc)"/>
+<rect x="1" y="1" width="1198" height="428" rx="19" fill="url(#gridfc)" opacity="0.2"/>
+<rect x="1" y="1" width="1198" height="428" rx="19" fill="none" stroke="#345778" stroke-width="2"/>
+<rect x="28" y="24" width="1144" height="382" rx="17" fill="#060d17" fill-opacity="0.64" stroke="#2f648b" stroke-width="1.4"/>
+<g clip-path="url(#clipfc)"><rect x="0" y="-72" width="1200" height="72" fill="url(#scanfc)"><animateTransform attributeName="transform" type="translate" values="0 0;0 502" dur="11s" repeatCount="indefinite"/></rect></g>
+<rect x="28" y="403" width="1144" height="3" rx="1.5" fill="url(#edgefc)" opacity="0.5"/>
+
+<circle cx="52" cy="56" r="4.5" fill="#2dd4bf" filter="url(#glowfc)"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="68" y="62" fill="#2dd4bf" font-size="16" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">ENFOQUE ACTUAL // PIPELINE ACTIVO</text>
+<text x="52" y="88" fill="#8fa3ba" font-size="13" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">santiago@portafolio:~$ run enfoque --activo</text>
+<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">5 NODOS // EN EJECUCIÓN</text>
+<line x1="52" y1="105" x2="1148" y2="105" stroke="#315474"/>
+<line x1="52" y1="105" x2="210" y2="105" stroke="url(#edgefc)" stroke-width="2"/>
+<line x1="72" y1="148" x2="72" y2="180" stroke="#315474" stroke-dasharray="3 4"/>
+<circle cx="72" cy="148" r="10" fill="none" stroke="#22d3ee" stroke-width="2"/><circle cx="72" cy="148" r="4" fill="#22d3ee" filter="url(#glowfc)"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<rect x="100" y="130" width="1046" height="36" rx="8" fill="#0a1626" stroke="#244663"/>
+<text x="122" y="153" fill="#22d3ee" font-size="14" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">01</text>
+<text x="170" y="153" fill="#f8fbff" font-size="14" font-weight="800" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">CONSTRUIR</text>
+<text x="330" y="153" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Aplicaciones web full-stack de punta a punta, del diseño al despliegue</text>
+<rect x="1100" y="146" width="28" height="4" rx="2" fill="#22d3ee" opacity="0.8"><animate attributeName="width" values="10;28;10" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+<line x1="72" y1="198" x2="72" y2="230" stroke="#315474" stroke-dasharray="3 4"/>
+<circle cx="72" cy="198" r="10" fill="none" stroke="#2dd4bf" stroke-width="2"/><circle cx="72" cy="198" r="4" fill="#2dd4bf" filter="url(#glowfc)"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<rect x="100" y="180" width="1046" height="36" rx="8" fill="#0a1626" stroke="#244663"/>
+<text x="122" y="203" fill="#2dd4bf" font-size="14" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">02</text>
+<text x="170" y="203" fill="#f8fbff" font-size="14" font-weight="800" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">NUBE</text>
+<text x="330" y="203" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Infraestructura y despliegue en AWS (AWS Academy Cloud Foundations)</text>
+<rect x="1100" y="196" width="28" height="4" rx="2" fill="#2dd4bf" opacity="0.8"><animate attributeName="width" values="10;28;10" dur="3s" begin="0.3s" repeatCount="indefinite"/></rect>
+<line x1="72" y1="248" x2="72" y2="280" stroke="#315474" stroke-dasharray="3 4"/>
+<circle cx="72" cy="248" r="10" fill="none" stroke="#3b82f6" stroke-width="2"/><circle cx="72" cy="248" r="4" fill="#3b82f6" filter="url(#glowfc)"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<rect x="100" y="230" width="1046" height="36" rx="8" fill="#0a1626" stroke="#244663"/>
+<text x="122" y="253" fill="#3b82f6" font-size="14" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">03</text>
+<text x="170" y="253" fill="#f8fbff" font-size="14" font-weight="800" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">CALIDAD</text>
+<text x="330" y="253" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Pruebas automatizadas, revisión de código y pipelines de CI/CD</text>
+<rect x="1100" y="246" width="28" height="4" rx="2" fill="#3b82f6" opacity="0.8"><animate attributeName="width" values="10;28;10" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect>
+<line x1="72" y1="298" x2="72" y2="330" stroke="#315474" stroke-dasharray="3 4"/>
+<circle cx="72" cy="298" r="10" fill="none" stroke="#8b5cf6" stroke-width="2"/><circle cx="72" cy="298" r="4" fill="#8b5cf6" filter="url(#glowfc)"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<rect x="100" y="280" width="1046" height="36" rx="8" fill="#0a1626" stroke="#244663"/>
+<text x="122" y="303" fill="#8b5cf6" font-size="14" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">04</text>
+<text x="170" y="303" fill="#f8fbff" font-size="14" font-weight="800" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">IA</text>
+<text x="330" y="303" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Aprender y construir soluciones con inteligencia artificial</text>
+<rect x="1100" y="296" width="28" height="4" rx="2" fill="#8b5cf6" opacity="0.8"><animate attributeName="width" values="10;28;10" dur="3s" begin="0.9s" repeatCount="indefinite"/></rect>
+<line x1="72" y1="348" x2="72" y2="380" stroke="#315474" stroke-dasharray="3 4"/>
+<circle cx="72" cy="348" r="10" fill="none" stroke="#2dd4bf" stroke-width="2"/><circle cx="72" cy="348" r="4" fill="#2dd4bf" filter="url(#glowfc)"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+<rect x="100" y="330" width="1046" height="36" rx="8" fill="#0a1626" stroke="#244663"/>
+<text x="122" y="353" fill="#2dd4bf" font-size="14" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">05</text>
+<text x="170" y="353" fill="#f8fbff" font-size="14" font-weight="800" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">CRECER</text>
+<text x="330" y="353" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Trabajo en equipo, nuevos retos y aprendizaje continuo</text>
+<rect x="1100" y="346" width="28" height="4" rx="2" fill="#2dd4bf" opacity="0.8"><animate attributeName="width" values="10;28;10" dur="3s" begin="1.2s" repeatCount="indefinite"/></rect>
+</svg>

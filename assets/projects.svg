@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="258" viewBox="0 0 1200 258" role="img" aria-label="Lista de proyectos: ZOU Athletics, The Nexus Battles VI">
+<defs>
+<linearGradient id="bgpl" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#050914"/><stop offset="54%" stop-color="#081421"/><stop offset="100%" stop-color="#102238"/></linearGradient>
+<linearGradient id="edgepl" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="48%" stop-color="#2dd4bf"/><stop offset="78%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="scanpl" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity="0.10"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<pattern id="gridpl" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#27415e" stroke-width="1" opacity="0.34"/></pattern>
+<clipPath id="clippl"><rect width="1200" height="258" rx="20"/></clipPath>
+<filter id="glowpl" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="258" rx="20" fill="url(#bgpl)"/>
+<rect x="1" y="1" width="1198" height="256" rx="19" fill="url(#gridpl)" opacity="0.2"/>
+<rect x="1" y="1" width="1198" height="256" rx="19" fill="none" stroke="#345778" stroke-width="2"/>
+<rect x="28" y="24" width="1144" height="210" rx="17" fill="#060d17" fill-opacity="0.64" stroke="#2f648b" stroke-width="1.4"/>
+<g clip-path="url(#clippl)"><rect x="0" y="-72" width="1200" height="72" fill="url(#scanpl)"><animateTransform attributeName="transform" type="translate" values="0 0;0 330" dur="11s" repeatCount="indefinite"/></rect></g>
+<rect x="28" y="231" width="1144" height="3" rx="1.5" fill="url(#edgepl)" opacity="0.5"/>
+
+<circle cx="52" cy="56" r="4.5" fill="#8b5cf6" filter="url(#glowpl)"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="68" y="62" fill="#8b5cf6" font-size="16" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">PROYECTOS.LIST</text>
+<text x="52" y="88" fill="#8fa3ba" font-size="13" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">santiago@portafolio:~$ ./proyectos.sh --todos</text>
+<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">2 PROYECTOS // CARGADOS</text>
+<line x1="52" y1="105" x2="1148" y2="105" stroke="#315474"/>
+<line x1="52" y1="105" x2="210" y2="105" stroke="url(#edgepl)" stroke-width="2"/>
+<rect x="60" y="128" width="1080" height="34" rx="6" fill="#0a1626" stroke="#244663"/>
+<circle cx="80" cy="145" r="4" fill="#22d3ee" filter="url(#glowpl)"/>
+<text x="96" y="150" fill="#22d3ee" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">[01]</text>
+<text x="150" y="150" fill="#f8fbff" font-size="14.5" font-weight="700" font-family="'Segoe UI', Helvetica, Arial, sans-serif">ZOU Athletics</text>
+<text x="1124" y="150" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">proyecto.zou</text>
+<rect x="60" y="172" width="1080" height="34" rx="6" fill="#0a1626" stroke="#244663"/>
+<circle cx="80" cy="189" r="4" fill="#2dd4bf" filter="url(#glowpl)"/>
+<text x="96" y="194" fill="#2dd4bf" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">[02]</text>
+<text x="150" y="194" fill="#f8fbff" font-size="14.5" font-weight="700" font-family="'Segoe UI', Helvetica, Arial, sans-serif">The Nexus Battles VI</text>
+<text x="1124" y="194" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">proyecto.nexus</text>
+</svg>

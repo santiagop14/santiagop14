@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="398" viewBox="0 0 1200 398" role="img" aria-label="Stack técnico: 01 // LENGUAJES: Java · TypeScript · JavaScript · Python · SQL. 02 // FRONTEND: React · Vite · Tailwind CSS · shadcn/ui · HTML · CSS. 03 // BACKEND Y DATOS: Node.js · Express · Spring Boot · Sequelize · PostgreSQL. 04 // DEVOPS Y NUBE: Docker · GitHub Actions · AWS · Vercel · Render · SonarQube. 05 // PRUEBAS: Vitest · Supertest · JUnit 5 · Mockito · JaCoCo. 06 // INFRAESTRUCTURA: Windows Server · Active Directory · VirtualBox · Nagios">
+<defs>
+<linearGradient id="bgsk" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#050914"/><stop offset="54%" stop-color="#081421"/><stop offset="100%" stop-color="#102238"/></linearGradient>
+<linearGradient id="edgesk" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="48%" stop-color="#2dd4bf"/><stop offset="78%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="scansk" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity="0.10"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<pattern id="gridsk" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#27415e" stroke-width="1" opacity="0.34"/></pattern>
+<clipPath id="clipsk"><rect width="1200" height="398" rx="20"/></clipPath>
+<filter id="glowsk" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="398" rx="20" fill="url(#bgsk)"/>
+<rect x="1" y="1" width="1198" height="396" rx="19" fill="url(#gridsk)" opacity="0.2"/>
+<rect x="1" y="1" width="1198" height="396" rx="19" fill="none" stroke="#345778" stroke-width="2"/>
+<rect x="28" y="24" width="1144" height="350" rx="17" fill="#060d17" fill-opacity="0.64" stroke="#2f648b" stroke-width="1.4"/>
+<g clip-path="url(#clipsk)"><rect x="0" y="-72" width="1200" height="72" fill="url(#scansk)"><animateTransform attributeName="transform" type="translate" values="0 0;0 470" dur="11s" repeatCount="indefinite"/></rect></g>
+<rect x="28" y="371" width="1144" height="3" rx="1.5" fill="url(#edgesk)" opacity="0.5"/>
+
+<circle cx="52" cy="56" r="4.5" fill="#3b82f6" filter="url(#glowsk)"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="68" y="62" fill="#3b82f6" font-size="16" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">STACK TÉCNICO // CAJA DE HERRAMIENTAS</text>
+<text x="52" y="88" fill="#8fa3ba" font-size="13" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">santiago@portafolio:~$ scan toolkit --declarado</text>
+<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">6 CATEGORÍAS</text>
+<line x1="52" y1="105" x2="1148" y2="105" stroke="#315474"/>
+<line x1="52" y1="105" x2="210" y2="105" stroke="url(#edgesk)" stroke-width="2"/>
+<rect x="60" y="128" width="530" height="62" rx="8" fill="#0a1626" stroke="#244663"/>
+<rect x="60" y="128" width="3" height="62" rx="1.5" fill="#22d3ee"/>
+<circle cx="82" cy="150" r="3.5" fill="#22d3ee" filter="url(#glowsk)"/>
+<text x="94" y="155" fill="#22d3ee" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">01 // LENGUAJES</text>
+<text x="82" y="177" fill="#e6f1ff" font-size="13.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Java · TypeScript · JavaScript · Python · SQL</text>
+<rect x="610" y="128" width="530" height="62" rx="8" fill="#0a1626" stroke="#244663"/>
+<rect x="610" y="128" width="3" height="62" rx="1.5" fill="#2dd4bf"/>
+<circle cx="632" cy="150" r="3.5" fill="#2dd4bf" filter="url(#glowsk)"/>
+<text x="644" y="155" fill="#2dd4bf" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">02 // FRONTEND</text>
+<text x="632" y="177" fill="#e6f1ff" font-size="13.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">React · Vite · Tailwind CSS · shadcn/ui · HTML · CSS</text>
+<rect x="60" y="204" width="530" height="62" rx="8" fill="#0a1626" stroke="#244663"/>
+<rect x="60" y="204" width="3" height="62" rx="1.5" fill="#3b82f6"/>
+<circle cx="82" cy="226" r="3.5" fill="#3b82f6" filter="url(#glowsk)"/>
+<text x="94" y="231" fill="#3b82f6" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">03 // BACKEND Y DATOS</text>
+<text x="82" y="253" fill="#e6f1ff" font-size="13.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Node.js · Express · Spring Boot · Sequelize · PostgreSQL</text>
+<rect x="610" y="204" width="530" height="62" rx="8" fill="#0a1626" stroke="#244663"/>
+<rect x="610" y="204" width="3" height="62" rx="1.5" fill="#8b5cf6"/>
+<circle cx="632" cy="226" r="3.5" fill="#8b5cf6" filter="url(#glowsk)"/>
+<text x="644" y="231" fill="#8b5cf6" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">04 // DEVOPS Y NUBE</text>
+<text x="632" y="253" fill="#e6f1ff" font-size="13.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Docker · GitHub Actions · AWS · Vercel · Render · SonarQube</text>
+<rect x="60" y="280" width="530" height="62" rx="8" fill="#0a1626" stroke="#244663"/>
+<rect x="60" y="280" width="3" height="62" rx="1.5" fill="#22d3ee"/>
+<circle cx="82" cy="302" r="3.5" fill="#22d3ee" filter="url(#glowsk)"/>
+<text x="94" y="307" fill="#22d3ee" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">05 // PRUEBAS</text>
+<text x="82" y="329" fill="#e6f1ff" font-size="13.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Vitest · Supertest · JUnit 5 · Mockito · JaCoCo</text>
+<rect x="610" y="280" width="530" height="62" rx="8" fill="#0a1626" stroke="#244663"/>
+<rect x="610" y="280" width="3" height="62" rx="1.5" fill="#2dd4bf"/>
+<circle cx="632" cy="302" r="3.5" fill="#2dd4bf" filter="url(#glowsk)"/>
+<text x="644" y="307" fill="#2dd4bf" font-size="13" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">06 // INFRAESTRUCTURA</text>
+<text x="632" y="329" fill="#e6f1ff" font-size="13.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Windows Server · Active Directory · VirtualBox · Nagios</text>
+</svg>

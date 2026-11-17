@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="479" viewBox="0 0 1200 479" role="img" aria-label="Sobre mí: Soy estudiante de sexto semestre de Ingeniería de Sistemas e Informática en la UPB Bucaramanga. Me gusta construir software real: que se despliegue, que tenga pruebas y que alguien lo use. Desarrollé solo ZOU Athletics, un e-commerce full-stack en producción con React, TypeScript, Node.js y PostgreSQL, y trabajé en equipo con Scrum en una plataforma de microservicios con Java y Spring Boot. Me enfoco en buenas prácticas: arquitectura limpia, pruebas automatizadas, revisión de código y CI/CD. Uso herramientas de IA como apoyo, sin dejar de lado el criterio técnico. Fuera del código me encanta el baloncesto, soy hincha del Atlético Bucaramanga y me interesa mucho el mundo de la inteligencia artificial.">
+<defs>
+<linearGradient id="bgab" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#050914"/><stop offset="54%" stop-color="#081421"/><stop offset="100%" stop-color="#102238"/></linearGradient>
+<linearGradient id="edgeab" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="48%" stop-color="#2dd4bf"/><stop offset="78%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="scanab" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity="0.10"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<pattern id="gridab" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#27415e" stroke-width="1" opacity="0.34"/></pattern>
+<clipPath id="clipab"><rect width="1200" height="479" rx="20"/></clipPath>
+<filter id="glowab" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="479" rx="20" fill="url(#bgab)"/>
+<rect x="1" y="1" width="1198" height="477" rx="19" fill="url(#gridab)" opacity="0.2"/>
+<rect x="1" y="1" width="1198" height="477" rx="19" fill="none" stroke="#345778" stroke-width="2"/>
+<rect x="28" y="24" width="1144" height="431" rx="17" fill="#060d17" fill-opacity="0.64" stroke="#2f648b" stroke-width="1.4"/>
+<g clip-path="url(#clipab)"><rect x="0" y="-72" width="1200" height="72" fill="url(#scanab)"><animateTransform attributeName="transform" type="translate" values="0 0;0 551" dur="11s" repeatCount="indefinite"/></rect></g>
+<rect x="28" y="452" width="1144" height="3" rx="1.5" fill="url(#edgeab)" opacity="0.5"/>
+
+<circle cx="52" cy="56" r="4.5" fill="#2dd4bf" filter="url(#glowab)"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="68" y="62" fill="#2dd4bf" font-size="16" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">SOBRE MÍ / PERFIL.INFO</text>
+<text x="52" y="88" fill="#8fa3ba" font-size="13" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">santiago@portafolio:~$ cat perfil.info</text>
+<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">PERFIL // ACTIVO</text>
+<line x1="52" y1="105" x2="1148" y2="105" stroke="#315474"/>
+<line x1="52" y1="105" x2="210" y2="105" stroke="url(#edgeab)" stroke-width="2"/>
+
+<rect x="60" y="124" width="3" height="71" rx="1.5" fill="#2dd4bf"/>
+<text x="78" y="140" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Soy estudiante de sexto semestre de Ingeniería de Sistemas e Informática en la</text>
+<text x="78" y="161" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">UPB Bucaramanga. Me gusta construir software real: que se despliegue, que</text>
+<text x="78" y="182" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">tenga pruebas y que alguien lo use.</text>
+<rect x="60" y="209" width="3" height="71" rx="1.5" fill="#22d3ee"/>
+<text x="78" y="225" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Desarrollé solo ZOU Athletics, un e-commerce full-stack en producción con</text>
+<text x="78" y="246" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">React, TypeScript, Node.js y PostgreSQL, y trabajé en equipo con Scrum en una</text>
+<text x="78" y="267" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">plataforma de microservicios con Java y Spring Boot.</text>
+<rect x="60" y="294" width="3" height="71" rx="1.5" fill="#3b82f6"/>
+<text x="78" y="310" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Me enfoco en buenas prácticas: arquitectura limpia, pruebas automatizadas,</text>
+<text x="78" y="331" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">revisión de código y CI/CD. Uso herramientas de IA como apoyo, sin dejar de</text>
+<text x="78" y="352" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">lado el criterio técnico.</text>
+<rect x="60" y="379" width="3" height="50" rx="1.5" fill="#8b5cf6"/>
+<text x="78" y="395" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Fuera del código me encanta el baloncesto, soy hincha del Atlético Bucaramanga</text>
+<text x="78" y="416" fill="#e6f1ff" font-size="15" font-family="'Segoe UI', Helvetica, Arial, sans-serif">y me interesa mucho el mundo de la inteligencia artificial.</text>
+<rect x="760" y="128" width="384" height="236" rx="12" fill="#07111d" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="1.5"/>
+<rect x="760" y="128" width="384" height="34" rx="12" fill="#0b1b2d"/>
+<circle cx="780" cy="145" r="5" fill="#f87171"/><circle cx="798" cy="145" r="5" fill="#fbbf24"/><circle cx="816" cy="145" r="5" fill="#4ade80"/>
+<text x="1128" y="150" fill="#5f7590" font-size="11" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">CÓDIGO // EN VIVO</text>
+<text x="782" y="198" font-size="13.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace" opacity="0"><tspan fill="#8b5cf6">const</tspan><tspan fill="#e6f1ff"> dev = {</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.056;0.078;0.93;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="782" y="220" font-size="13.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace" opacity="0"><tspan fill="#8fa3ba">  nombre:</tspan><tspan fill="#fbbf24"> &quot;Santiago&quot;,</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.117;0.139;0.93;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="782" y="242" font-size="13.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace" opacity="0"><tspan fill="#8fa3ba">  stack:</tspan><tspan fill="#2dd4bf"> [&quot;React&quot;, &quot;Node&quot;, &quot;Java&quot;],</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.178;0.200;0.93;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="782" y="264" font-size="13.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace" opacity="0"><tspan fill="#8fa3ba">  nube:</tspan><tspan fill="#fbbf24"> &quot;AWS&quot;,</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.239;0.261;0.93;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="782" y="286" font-size="13.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace" opacity="0"><tspan fill="#8fa3ba">  aprendiendo:</tspan><tspan fill="#fbbf24"> &quot;IA&quot;,</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.300;0.322;0.93;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="782" y="308" font-size="13.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace" opacity="0"><tspan fill="#e6f1ff">};</tspan><tspan fill="#e6f1ff"></tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.361;0.383;0.93;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="782" y="330" font-size="13.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace" opacity="0"><tspan fill="#22d3ee">deploy</tspan><tspan fill="#5f7590">(dev); // ✓ listo</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.422;0.444;0.93;1" dur="9s" repeatCount="indefinite"/></text>
+<rect x="782" y="339" width="9" height="16" fill="#2dd4bf"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

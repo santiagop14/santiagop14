@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="383" viewBox="0 0 1200 383" role="img" aria-label="The Nexus Battles VI: Trabajé como desarrollador en un equipo de más de 20 estudiantes bajo el marco Scrum, en el que entregamos por sprints una plataforma de videojuego con arquitectura de microservicios desplegada en AWS (Proyecto Integrador II, UPB). Participé en historias de usuario del backend, pruebas, revisión de código y CI/CD.">
+<defs>
+<linearGradient id="bgpc1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#050914"/><stop offset="54%" stop-color="#081421"/><stop offset="100%" stop-color="#102238"/></linearGradient>
+<linearGradient id="edgepc1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="48%" stop-color="#2dd4bf"/><stop offset="78%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="scanpc1" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/><stop offset="50%" stop-color="#22d3ee" stop-opacity="0.10"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<pattern id="gridpc1" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#27415e" stroke-width="1" opacity="0.34"/></pattern>
+<clipPath id="clippc1"><rect width="1200" height="383" rx="20"/></clipPath>
+<filter id="glowpc1" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="383" rx="20" fill="url(#bgpc1)"/>
+<rect x="1" y="1" width="1198" height="381" rx="19" fill="url(#gridpc1)" opacity="0.2"/>
+<rect x="1" y="1" width="1198" height="381" rx="19" fill="none" stroke="#345778" stroke-width="2"/>
+<rect x="28" y="24" width="1144" height="335" rx="17" fill="#060d17" fill-opacity="0.64" stroke="#2f648b" stroke-width="1.4"/>
+<g clip-path="url(#clippc1)"><rect x="0" y="-72" width="1200" height="72" fill="url(#scanpc1)"><animateTransform attributeName="transform" type="translate" values="0 0;0 455" dur="11s" repeatCount="indefinite"/></rect></g>
+<rect x="28" y="356" width="1144" height="3" rx="1.5" fill="url(#edgepc1)" opacity="0.5"/>
+
+<circle cx="52" cy="56" r="4.5" fill="#2dd4bf" filter="url(#glowpc1)"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="68" y="62" fill="#2dd4bf" font-size="16" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">[02] proyecto.nexus</text>
+<text x="52" y="88" fill="#8fa3ba" font-size="13" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">santiago@portafolio:~$ inspect proyecto.nexus</text>
+<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">PROYECTO // LISTO</text>
+<line x1="52" y1="105" x2="1148" y2="105" stroke="#315474"/>
+<line x1="52" y1="105" x2="210" y2="105" stroke="url(#edgepc1)" stroke-width="2"/>
+
+<text x="62" y="140" fill="#5f7590" font-size="11" letter-spacing="1.5" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">PROYECTO 02 // VERIFICADO</text>
+<text x="60" y="182" fill="#f8fbff" font-size="32" font-weight="900" font-family="'Segoe UI', Helvetica, Arial, sans-serif">The Nexus Battles VI</text>
+<rect x="1056" y="160" width="68" height="26" rx="13" fill="#0b2233" stroke="#2dd4bf" stroke-opacity="0.75"/><text x="1090" y="177" fill="#2dd4bf" font-size="11" font-weight="800" text-anchor="middle" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">SCRUM</text><rect x="970" y="160" width="76" height="26" rx="13" fill="#0b2233" stroke="#2dd4bf" stroke-opacity="0.75"/><text x="1008" y="177" fill="#2dd4bf" font-size="11" font-weight="800" text-anchor="middle" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">EQUIPO</text>
+<text x="62" y="214" fill="#22d3ee" font-size="12.5" font-weight="700" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">STACK: Java · Spring Boot · Docker · GitHub Actions · AWS</text>
+<text x="62" y="240" fill="#4ade80" font-size="11" font-weight="800" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">DESCRIPCIÓN.LOG</text>
+<text x="62" y="264" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Trabajé como desarrollador en un equipo de más de 20 estudiantes bajo el marco Scrum, en el que entregamos por</text>
+<text x="62" y="285" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">sprints una plataforma de videojuego con arquitectura de microservicios desplegada en AWS (Proyecto Integrador</text>
+<text x="62" y="306" fill="#e6f1ff" font-size="14.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">II, UPB). Participé en historias de usuario del backend, pruebas, revisión de código y CI/CD.</text>
+<text x="1136" y="343" fill="#5f7590" font-size="10.5" text-anchor="end" letter-spacing="1" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">ENLACES // ABAJO</text>
+</svg>
