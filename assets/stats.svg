@@ -13,7 +13,7 @@
 <circle cx="32" cy="143" r="4" fill="#fbbf24"/><text x="44" y="148" fill="#8fa3ba" font-size="12.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Forks</text>
 <text x="44" y="176" fill="#f8fbff" font-size="24" font-weight="800" font-family="'Segoe UI', Helvetica, Arial, sans-serif">1</text>
 <circle cx="208" cy="143" r="4" fill="#f87171"/><text x="220" y="148" fill="#8fa3ba" font-size="12.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Contribuciones</text>
-<text x="220" y="176" fill="#f8fbff" font-size="24" font-weight="800" font-family="'Segoe UI', Helvetica, Arial, sans-serif">106</text>
+<text x="220" y="176" fill="#f8fbff" font-size="24" font-weight="800" font-family="'Segoe UI', Helvetica, Arial, sans-serif">108</text>
 <circle cx="384" cy="143" r="4" fill="#22d3ee"/><text x="396" y="148" fill="#8fa3ba" font-size="12.5" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Repos a los que aporté</text>
 <text x="396" y="176" fill="#f8fbff" font-size="24" font-weight="800" font-family="'Segoe UI', Helvetica, Arial, sans-serif">1</text>
 </svg>
