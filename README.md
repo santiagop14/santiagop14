@@ -65,6 +65,19 @@
 
 ---
 
+<h2 align="center">🏅 Certificaciones</h2>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+<p align="center">
+  <a href="https://www.credly.com/badges/8d2c2b39-f736-4239-9925-ed3ea657b158/public_url"><img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="150" alt="AWS Academy Graduate - Cloud Foundations - Training Badge" /></a>
+</p>
+<p align="center">
+  <strong>AWS Academy Graduate — Cloud Foundations</strong><br/>
+  Amazon Web Services Training and Certification · Octubre 2026 ·
+  <a href="https://www.credly.com/badges/8d2c2b39-f736-4239-9925-ed3ea657b158/public_url">Verificar en Credly</a>
+</p>
+
+---
+
 <h2 align="center">🤝 Contacto</h2>
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 <p align="center"><img src="./assets/connect.svg" width="100%" alt="Contacto" /></p>
