@@ -17,7 +17,7 @@
 <circle cx="52" cy="56" r="4.5" fill="#3b82f6" filter="url(#glowst)"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/></circle>
 <text x="68" y="62" fill="#3b82f6" font-size="16" font-weight="800" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">SEÑAL DEL PERFIL // DATOS EN VIVO</text>
 <text x="52" y="88" fill="#8fa3ba" font-size="13" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">santiago@portafolio:~$ read perfil.signal --live</text>
-<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">ACTUALIZADO 2026-11-20</text>
+<text x="1148" y="62" fill="#5f7590" font-size="12" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Liberation Mono', monospace">ACTUALIZADO 2026-11-21</text>
 <line x1="52" y1="105" x2="1148" y2="105" stroke="#315474"/>
 <line x1="52" y1="105" x2="210" y2="105" stroke="url(#edgest)" stroke-width="2"/>
 <rect x="60" y="124" width="256" height="72" rx="8" fill="#0a1626" stroke="#244663"/>
