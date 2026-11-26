@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=576a1a56f2" width="100%" alt="Santiago Pinto - Estudiante de Ingeniería de Sistemas e Informática" />
+  <img src="./assets/header.svg?v=0e89bdd4ef" width="100%" alt="Santiago Pinto - Estudiante de Ingeniería de Sistemas e Informática" />
 </p>
 
 <h1 align="center">Hola, soy Santiago 👋</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg?v=576a1a56f2" alt="Desarrollador full-stack en formación" />
+  <img src="./assets/typing.svg?v=0e89bdd4ef" alt="Desarrollador full-stack en formación" />
 </p>
 
 <p align="center">
@@ -23,18 +23,18 @@
 ---
 
 <h2 align="center">🧑‍💻 Sobre mí</h2>
-<p align="center"><img src="./assets/divider.svg?v=576a1a56f2" width="100%" alt="" /></p>
-<p align="center"><img src="./assets/about.svg?v=576a1a56f2" width="100%" alt="Sobre mí" /></p>
+<p align="center"><img src="./assets/divider.svg?v=0e89bdd4ef" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/about.svg?v=0e89bdd4ef" width="100%" alt="Sobre mí" /></p>
 
 <h2 align="center">🚀 Enfoque actual</h2>
-<p align="center"><img src="./assets/divider.svg?v=576a1a56f2" width="100%" alt="" /></p>
-<p align="center"><img src="./assets/focus.svg?v=576a1a56f2" width="100%" alt="Enfoque actual" /></p>
+<p align="center"><img src="./assets/divider.svg?v=0e89bdd4ef" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/focus.svg?v=0e89bdd4ef" width="100%" alt="Enfoque actual" /></p>
 
 ---
 
 <h2 align="center">🛠️ Mis habilidades</h2>
-<p align="center"><img src="./assets/divider.svg?v=576a1a56f2" width="100%" alt="" /></p>
-<p align="center"><img src="./assets/skills.svg?v=576a1a56f2" width="100%" alt="Stack técnico" /></p>
+<p align="center"><img src="./assets/divider.svg?v=0e89bdd4ef" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/skills.svg?v=0e89bdd4ef" width="100%" alt="Stack técnico" /></p>
 
 <h3 align="center"><code>01</code> Lenguajes</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=java,ts,js,python" alt="Java, TypeScript, JavaScript, Python" /></p>
@@ -51,22 +51,22 @@
 ---
 
 <h2 align="center">📂 Proyectos destacados</h2>
-<p align="center"><img src="./assets/divider.svg?v=576a1a56f2" width="100%" alt="" /></p>
-<p align="center"><img src="./assets/projects.svg?v=576a1a56f2" width="100%" alt="Lista de proyectos" /></p>
+<p align="center"><img src="./assets/divider.svg?v=0e89bdd4ef" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/projects.svg?v=0e89bdd4ef" width="100%" alt="Lista de proyectos" /></p>
 
-<p align="center"><img src="./assets/project-zou.svg?v=576a1a56f2" width="100%" alt="ZOU Athletics" /></p>
+<p align="center"><img src="./assets/project-zou.svg?v=0e89bdd4ef" width="100%" alt="ZOU Athletics" /></p>
 <p align="center">
   <strong>Repositorio:</strong> <a href="https://github.com/santiagop14/Zou-athletics-ecommerce">Zou-athletics-ecommerce</a><br/>
   <strong>En producción:</strong> <a href="https://zouathletics.me">zouathletics.me</a>
 </p>
 
-<p align="center"><img src="./assets/project-nexus.svg?v=576a1a56f2" width="100%" alt="The Nexus Battles VI" /></p>
+<p align="center"><img src="./assets/project-nexus.svg?v=0e89bdd4ef" width="100%" alt="The Nexus Battles VI" /></p>
 <p align="center"><strong>Repositorio:</strong> <a href="https://github.com/Vortex-Play-nexus-battles/nexus-battles-vi">nexus-battles-vi</a></p>
 
 ---
 
 <h2 align="center">🏅 Certificaciones</h2>
-<p align="center"><img src="./assets/divider.svg?v=576a1a56f2" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/divider.svg?v=0e89bdd4ef" width="100%" alt="" /></p>
 <p align="center">
   <a href="https://www.credly.com/badges/8d2c2b39-f736-4239-9925-ed3ea657b158/public_url"><img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="150" alt="AWS Academy Graduate - Cloud Foundations - Training Badge" /></a>
 </p>
@@ -79,23 +79,23 @@
 ---
 
 <h2 align="center">🤝 Contacto</h2>
-<p align="center"><img src="./assets/divider.svg?v=576a1a56f2" width="100%" alt="" /></p>
-<p align="center"><img src="./assets/connect.svg?v=576a1a56f2" width="100%" alt="Contacto" /></p>
+<p align="center"><img src="./assets/divider.svg?v=0e89bdd4ef" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/connect.svg?v=0e89bdd4ef" width="100%" alt="Contacto" /></p>
 <p align="center">
-  <a href="https://github.com/santiagop14"><img src="./assets/contact-github.svg?v=576a1a56f2" width="24%" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/santiago-pinto-0a796a44b/"><img src="./assets/contact-linkedin.svg?v=576a1a56f2" width="24%" alt="LinkedIn" /></a>
-  <a href="mailto:pintosanti55@gmail.com"><img src="./assets/contact-gmail.svg?v=576a1a56f2" width="24%" alt="Gmail" /></a>
-  <a href="https://zouathletics.me"><img src="./assets/contact-portafolio.svg?v=576a1a56f2" width="24%" alt="Portafolio" /></a>
+  <a href="https://github.com/santiagop14"><img src="./assets/contact-github.svg?v=0e89bdd4ef" width="24%" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/santiago-pinto-0a796a44b/"><img src="./assets/contact-linkedin.svg?v=0e89bdd4ef" width="24%" alt="LinkedIn" /></a>
+  <a href="mailto:pintosanti55@gmail.com"><img src="./assets/contact-gmail.svg?v=0e89bdd4ef" width="24%" alt="Gmail" /></a>
+  <a href="https://zouathletics.me"><img src="./assets/contact-portafolio.svg?v=0e89bdd4ef" width="24%" alt="Portafolio" /></a>
 </p>
 
 ---
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
-<p align="center"><img src="./assets/divider.svg?v=576a1a56f2" width="100%" alt="" /></p>
-<p align="center"><img src="./assets/stats-panel.svg?v=576a1a56f2" width="100%" alt="Señal del perfil" /></p>
+<p align="center"><img src="./assets/divider.svg?v=0e89bdd4ef" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/stats-panel.svg?v=0e89bdd4ef" width="100%" alt="Señal del perfil" /></p>
 <p align="center">
-  <img src="./assets/stats.svg?v=576a1a56f2" width="49%" alt="Estadísticas de GitHub" />
-  <img src="./assets/langs.svg?v=576a1a56f2" width="49%" alt="Lenguajes más usados" />
+  <img src="./assets/stats.svg?v=0e89bdd4ef" width="49%" alt="Estadísticas de GitHub" />
+  <img src="./assets/langs.svg?v=0e89bdd4ef" width="49%" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
@@ -106,6 +106,6 @@
   </picture>
 </p>
 
-<p align="center"><img src="./assets/terminal.svg?v=576a1a56f2" width="100%" alt="Siempre aprendiendo" /></p>
+<p align="center"><img src="./assets/terminal.svg?v=0e89bdd4ef" width="100%" alt="Siempre aprendiendo" /></p>
 
 <p align="center"><i>Código limpio, pruebas que pasan y despliegues que funcionan.</i></p>
